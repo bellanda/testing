@@ -9,5 +9,5 @@ df = pl.DataFrame(
 )
 
 
-def print_df(df: pl.DataFrame):
+def print_df():
     print(df)
